@@ -1,1 +1,1 @@
-# SmartContract-JointSavings
+# Joint Savings Smart Contract using Solidity
