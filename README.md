@@ -1,6 +1,6 @@
 # Joint Savings Smart Contract using Solidity
 This Solidity Smart Contract accepts two user addresses. These addresses will be able to control a joint savings account. 
-This contract includes a 'Withdraw' and a 'Deposit' function. These features give your the ability to Withdraw and Deposit funds from the account.
+This contract includes a ```Withdraw```  a ```Deposit``` and ```setAccounts``` functions. These features give your the ability to Withdraw and Deposit funds from the account.
 
 ## Compile and Deploy the Smart Contract
 Using the JavaScript VM you can compile and deploy the ```joint_savings.sol``` file on REMIX IDE.
